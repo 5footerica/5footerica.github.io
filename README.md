@@ -36,31 +36,28 @@ Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona
 - Nominated team communications lead
 
 ### Education
-_In progress:_
 **Mesa Community College**
+_In progress:_
 - Associates of Applied science in Computer Programming
 Expected graduation: Spring 2018
--Associates of Applied science in Web Development
+- Associates of Applied science in Web Development
 Expected graduation: Spring 2018
 - Associates of Applied science in Web Design
 Expected graduation: Spring 2018
 
-_In progress:_
-**Free Code Camp**
-Full Stack Web Developement
-Expected graduation 2017 – 2018
-
 _Completed degree:_
-**Mesa Community College**
 - Associates of Arts in General Education curriculum
 Graduated: Spring 2012
 
-_Activities and Societies:_
-**Mesa Community College**
+**Free Code Camp**
+_In progress:_
+Full Stack Web Developement
+Expected graduation 2017 – 2018
+
+_College clubs:_
 - Game dev club
 - Horticulture club 
 - Bio Tech club
-- Bio Technology
 - Agriculture club
 
 ### Volunteer Experience:
