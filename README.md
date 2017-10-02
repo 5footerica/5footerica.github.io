@@ -1,4 +1,5 @@
-# Erica Weems  ###### Tempe, AZ - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
+# Erica Weems  
+#### Tempe, AZ - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
