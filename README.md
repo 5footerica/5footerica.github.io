@@ -50,12 +50,13 @@ _In progress:_
 Full Stack Web Developement
 Expected graduation 2017 – 2018
 
-_Attained degree:_
+_Completed degree:_
 **Mesa Community College**
 - Associates of Arts in General Education curriculum
-Graduation: Spring 2012
+Graduated: Spring 2012
 
-**Activities and Societies: **
+_Activities and Societies:_
+**Mesa Community College**
 - Game dev club
 - Horticulture club 
 - Bio Tech club
