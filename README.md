@@ -1,5 +1,4 @@
-# Erica Weems 
-###### Tempe, AZ - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
+# Erica Weems  ###### Tempe, AZ - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
@@ -10,7 +9,7 @@ Business Listings Coordinator by day, avid tech enthusiast by night. Currently l
 - Comfortable working in command line/ terminal
 - Fundamental experience with Javascript, Python, SQL, OOP, IDEs, text editors, Git, Github
 
-### Experience
+## Experience
 
 **Reputation.com** - Business Listings Coordinator
 _Nov 2016 – Present (1 yr) - Tempe, AZ_
@@ -28,7 +27,7 @@ _Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona_
 - Mentored new team members 
 - Nominated team communications lead
 
-### Education
+## Education
 **Mesa Community College**
 
 _In progress:_
@@ -55,7 +54,7 @@ _College clubs:_
 - Bio Tech club
 - Agriculture club
 
-### Volunteer Experience:
+## Volunteer Experience:
 **Heatsync Labs**
 Social Media, Operations Director
 VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
@@ -64,7 +63,7 @@ VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
 - Hosted events
 Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info 
 
-### Certifications
+## Certifications
 **Solo Learn certificates of completion**
 - HTML Fundamentals
 - CSS Fundamentals
@@ -74,7 +73,7 @@ Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info
 - Python Fundamentals
 
 
-### In Conclusion
+## In Conclusion
 
 If you've read this far, thank you :purple_heart: ! This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
 ###### Please feel free to contact: 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
