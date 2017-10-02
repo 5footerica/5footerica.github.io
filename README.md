@@ -1,4 +1,4 @@
-[Image of Erica](https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAWXAAAAJGM4ZTUxNWI1LWI2OGUtNDg5NC1hMjgzLTY1ODM5OTFiMjQ3OA.jpg) [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
+![Image of Erica](https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAWXAAAAJGM4ZTUxNWI1LWI2OGUtNDg5NC1hMjgzLTY1ODM5OTFiMjQ3OA.jpg) [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
 
 ## Summary
 
@@ -58,20 +58,20 @@ _Attained degree:_
 Graduation: Spring 2012
 
 **Activities and Societies: **
-*Game dev club
-*Horticulture club 
-*Bio Tech club
-*Bio Technology
-*Agriculture club
+- Game dev club
+- Horticulture club 
+- Bio Tech club
+- Bio Technology
+- Agriculture club
 
 ###Volunteer Experience:
 **Heatsync Labs**
 Social Media, Operations Director
 VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
-* Maintained and created event posts through several social media sites via Hootsuite
-* Gave tours of lab to visitors
-* Trained new members on lab safety
-* Hosted events
+- Maintained and created event posts through several social media sites via Hootsuite
+- Gave tours of lab to visitors
+- Trained new members on lab safety
+- Hosted events
 Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info 
 
 ###Certifications
