@@ -1,7 +1,7 @@
 
-> Please feel free to contact
+###### Please feel free to contact
+> 5footerica@gmail.com - 
 > [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
-> 5footerica@gmail.com
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
