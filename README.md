@@ -76,5 +76,5 @@ Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info
 ### In Conclusion
 
 If you've read this far, thank you :purple_heart: ! This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
-###### Please feel free to contact - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
+``` Please feel free to contact - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/) ```
 ![Erica](http://i.picresize.com/c0MR)
