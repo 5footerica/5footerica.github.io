@@ -78,4 +78,5 @@ Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info
 
 ### In Conclusion
 /play secret
-If you've read it this far, thank you.:purple_heart: This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
+
+If you've read it this far, thank you! :purple_heart: This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
