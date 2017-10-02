@@ -1,4 +1,4 @@
-![Image of Erica](https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAWXAAAAJGM4ZTUxNWI1LWI2OGUtNDg5NC1hMjgzLTY1ODM5OTFiMjQ3OA.jpg) [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
+ [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
 
 ## Summary
 
@@ -14,8 +14,7 @@ About Erica:
 ### Experience
 
 **Business Listings Coordinator - Reputation.com**
-*Nov 2016 – Present (1 yr)
-*Tempe, AZ
+Nov 2016 – Present (1 yr) - Tempe, AZ
 - Create and maintain thousands of business listings for clients across several platforms, including: Google My Business, Foursquare, Bing, Apple Maps, and more.
 - Verify that the information in listings are accurate and up to date, ensuring customers satisfaction and high approval ratings
 - Handle listing issues across various platforms for clients such as duplicate errors, page merging, ownership requests, erroneously closed or moved locations, etc.
@@ -24,8 +23,7 @@ About Erica:
 - Investigate one off issues for clients, ex: contacting GlassDoor to see if it's possible to merge branches into one dash board
 
 **Violations processor / Data Entry Specialist - American Traffic Solutions**
-*Jun 2013 – Nov 2016 (3 yrs 6 mos)
-*Mesa, Arizona
+Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona
 - Exceeded production and quality metrics
 - Worked in a variety of different specialty clients
 - Strong computer skills/Utilized web-based tools
@@ -37,7 +35,7 @@ About Erica:
 - Maintained daily/monthly quotas 
 - Nominated team communications lead
 
-###Education
+### Education
 _In progress:_
 **Mesa Community College**
 - Associates of Applied science in Computer Programming
@@ -64,7 +62,7 @@ Graduation: Spring 2012
 - Bio Technology
 - Agriculture club
 
-###Volunteer Experience:
+### Volunteer Experience:
 **Heatsync Labs**
 Social Media, Operations Director
 VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
@@ -74,7 +72,7 @@ VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
 - Hosted events
 Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info 
 
-###Certifications
+### Certifications
 **Solo Learn certificates of completion**
 - HTML Fundamentals
 - CSS Fundamentals
