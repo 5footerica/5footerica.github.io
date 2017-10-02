@@ -1,4 +1,8 @@
-```
+
+### Please feel free to contact
+- [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
+- 5footerica@gmail.com
+
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
 
@@ -10,10 +14,6 @@ Business Listings Coordinator by day, avid tech enthusiast by night. Currently l
 - Comfortable working in command line/ terminal
 - Fundamental experience with Javascript, Python, SQL, OOP, IDEs, text editors, Git, Github
 
-### Please feel free to contact
-- [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
-- 5footerica@gmail.com
-```
 ### Experience
 
 **Business Listings Coordinator - Reputation.com**
