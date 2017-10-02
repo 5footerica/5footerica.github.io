@@ -1,12 +1,10 @@
 
-### Please feel free to contact
-- [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
-- 5footerica@gmail.com
+> Please feel free to contact
+> [LinkedIn](https://www.linkedin.com/in/ericaweems/) 
+> 5footerica@gmail.com
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
-
-** About Erica:***
 - Knowledgeable PC building/maintenance and website design
 - Proficient with Microsoft Office suite, especially Excel
 - Experienced in startup tech environments
