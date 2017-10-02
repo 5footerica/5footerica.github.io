@@ -32,6 +32,7 @@ Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona
 
 ### Education
 **Mesa Community College**
+
 _In progress:_
 - Associates of Applied science in Computer Programming
 Expected graduation: Spring 2018
@@ -45,6 +46,7 @@ _Completed degree:_
 Graduated: Spring 2012
 
 **Free Code Camp**
+
 _In progress:_
 Full Stack Web Developement
 Expected graduation 2017 – 2018
@@ -72,3 +74,8 @@ Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info
 - JavaScript Fundamentals 
 - PHP Course
 - Python Fundamentals
+
+
+### In Conclusion
+/play secret
+If you've read it this far, thank you.:purple_heart: This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
