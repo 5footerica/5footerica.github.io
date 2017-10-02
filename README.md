@@ -1,7 +1,4 @@
-
-###### Please feel free to contact
-> 5footerica@gmail.com - 
-> [LinkedIn](https://www.linkedin.com/in/ericaweems/) - 
+###### Please feel free to contact - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
@@ -79,3 +76,5 @@ Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info
 ### In Conclusion
 
 If you've read this far, thank you :purple_heart: ! This page was created to try to find entry level opportunities involving not only my major, but a years long passion in working with tech and the tech community. Please feel free to reach out with questions, guidance, or even just a hello! 
+[Erica](https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/14642101_1070128293043143_6692340396027212652_n.jpg?oh=b107455e002be4bec4fdfb354d5cc8be&oe=5A46E0E4)
+###### Please feel free to contact - 5footerica@gmail.com - [LinkedIn](https://www.linkedin.com/in/ericaweems/)
