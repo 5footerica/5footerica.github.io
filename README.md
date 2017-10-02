@@ -1,11 +1,10 @@
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
-- Knowledgeable PC building/maintenance and website design
-- Proficient with Microsoft Office suite, especially Excel
-- Experienced in startup tech environments
-- Experienced working on Windows, Mac, and Linux machines
-- Comfortable working in command line/ terminal
+- Knowledgeable website design
 - Fundamental experience with Javascript, Python, SQL, OOP, IDEs, text editors, Git, Github
+- Experienced working in fast paced startup tech environments
+- Experienced working on Windows, Mac, and Linux machines
+- Comfortable working in Linux shell
 
 ## Experience
 
@@ -59,7 +58,7 @@ VolunteeredJan 2010 – Jul 2013 (3 yrs 7 mos)
 - Maintained and created event posts through several social media sites via Hootsuite
 - Trained new members on lab safety
 - Hosted events
-Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info 
+> Visit [Heatsync Labs](http://www.heatsynclabs.org/)'s website for more info 
 
 ## Certifications
 **Solo Learn certificates of completion**
