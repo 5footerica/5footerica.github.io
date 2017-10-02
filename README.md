@@ -1,7 +1,7 @@
 
 ###### Please feel free to contact
 > 5footerica@gmail.com - 
-> [LinkedIn](https://www.linkedin.com/in/ericaweems/) - ![Erica](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWXAAAAJGM4ZTUxNWI1LWI2OGUtNDg5NC1hMjgzLTY1ODM5OTFiMjQ3OA.jpg)
+> [LinkedIn](https://www.linkedin.com/in/ericaweems/) - 
 
 ## Summary
 Business Listings Coordinator by day, avid tech enthusiast by night. Currently looking to get her foot in the door for entry level web development/design or software engineer opportunities.
@@ -14,14 +14,14 @@ Business Listings Coordinator by day, avid tech enthusiast by night. Currently l
 
 ### Experience
 
-**Business Listings Coordinator - Reputation.com**
+**Reputation.com** - Business Listings Coordinator
 Nov 2016 – Present (1 yr) - Tempe, AZ
 - Create and maintain thousands of business listings for clients across several platforms, including: Google My Business, Foursquare, Bing, Apple Maps, and more.
 - Handle listing issues across various platforms for clients such as duplicate errors, page merging, ownership requests, erroneously closed or moved locations, etc.
 - Ensure clean data in excel sheets for bulk importing listings
 - Process, update, create, and assign tickets in JIRA
 
-**Violations processor / Data Entry Specialist - American Traffic Solutions**
+**American Traffic Solutions** -Violations processor / Data Entry Specialist
 Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona
 - Exceeded production and quality metrics
 - Worked in a variety of different specialty clients
@@ -35,11 +35,11 @@ Jun 2013 – Nov 2016 (3 yrs 6 mos) - Mesa, Arizona
 
 _In progress:_
 - Associates of Applied science in Computer Programming
-Expected graduation: Spring 2018
+> Expected graduation: Spring 2018
 - Associates of Applied science in Web Development
-Expected graduation: Spring 2018
+> Expected graduation: Spring 2018
 - Associates of Applied science in Web Design
-Expected graduation: Spring 2018
+> Expected graduation: Spring 2018
 
 _Completed degree:_
 - Associates of Arts in General Education curriculum
