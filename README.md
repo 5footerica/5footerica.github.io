@@ -8,7 +8,7 @@ Business Listings Coordinator by day, avid tech enthusiast by night. Currently l
 
 ## Experience
 
-**Reputation.com** - Business Listings Coordinator
+**Reputation.com** - Specialist, Business Listings
 _Nov 2016 – Present (1 yr) - Tempe, AZ_
 - Create and maintain thousands of business listings for clients across several platforms, including: Google My Business, Foursquare, Bing, Apple Maps, and more.
 - Handle listing issues across various platforms for clients such as duplicate errors, page merging, ownership requests, erroneously closed or moved locations, etc.
