@@ -1,5 +1,5 @@
 ## Summary
-Four years active experience as a tier 1, 2, and 3 technical support and solutions engineer.
+Over five years active experience as a tier 1, 2, and 3 technical support and solutions engineer.
 - Experience in console.log
 - Experience in logging systems such as SumoLogic and LogDNA
 - Experience in MongoDB
