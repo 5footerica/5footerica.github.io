@@ -1,8 +1,8 @@
 ## Summary
 Over five years active experience as a tier 1, 2, and 3 technical support and solutions engineer.
-- Experience in console.log
-- Experience in logging systems such as SumoLogic and LogDNA
-- Experience in MongoDB
+- Experienced in console.log
+- Experienced in logging systems such as SumoLogic and LogDNA
+- Experienced in MongoDB
 - Fundamental knowledgeable in website design
 - Fundamental experience with Javascript, Python, SQL, OOP, IDEs, text editors, Git, Github
 - Experienced working in fast paced startup tech environments
